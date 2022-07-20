@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Lobster", cursive;
+    color: #163CCC
+}
+
+h2 {
+    font-family: "Lobster", cursive;
+    color:#163CCC
+}
+
+h3 {
+    font-family: "Lobster", cursive;
+    color:#6ABAA4
+}
+
+footer {
+    background-image: linear-gradient( #AEA4DA, #163CCC);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #FFFADE, #AEA4DA, #163CCC );
+    color: white;
+}
+
+.navbar {
+    background-color:#163CCC
+}
